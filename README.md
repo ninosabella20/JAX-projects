@@ -51,7 +51,7 @@ Each folder contains code notebooks and short conceptual presentations.
 
 ---
 
-### 1. Understanding JAX
+### Phase 1. Understanding JAX
 
 **Purpose:**  
 Introduction to JAX and its core functionality for numerical computing and automatic differentiation.
@@ -62,7 +62,7 @@ Introduction to JAX and its core functionality for numerical computing and autom
 
 ---
 
-### 2. Neural Ordinary Differential Equations (NODEs)
+### Phase 2. Neural Ordinary Differential Equations (NODEs)
 
 **Purpose:**  
 Implementation and study of Neural ODEs for modeling continuous-time dynamical systems.
@@ -83,7 +83,7 @@ These notebooks explore Neural ODEs on different datasets.
 
 ---
 
-### 3. Neural Stochastic Differential Equations (NSDEs)
+### Phase 3. Neural Stochastic Differential Equations (NSDEs)
 
 **Purpose:**  
 Extension of Neural ODEs to stochastic dynamics using Neural SDEs.
@@ -106,19 +106,6 @@ Extension of Neural ODEs to stochastic dynamics using Neural SDEs.
 - `v` stands for **version** (model trial number).  
 - Higher version numbers correspond to **later and improved model iterations**.  
 - In each sequence, the **last version is the most successful model**, reflecting incremental improvements over previous trials.
-
----
-
-## Requirements
-
-Most notebooks use:
-
-- Python 3  
-- JAX  
-- NumPy  
-- Matplotlib  
-
-Install dependencies as needed before running the notebooks.
 
 ---
 
