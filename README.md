@@ -57,7 +57,7 @@ Each folder contains code notebooks and short conceptual presentations.
 Introduction to JAX and its core functionality for numerical computing and automatic differentiation.
 
 **Contents:**
-- `Jax Introduction Code`  
+- `Introduction-Code-JAX.pdf`  
   Introductory code examples demonstrating basic JAX concepts.
 
 ---
