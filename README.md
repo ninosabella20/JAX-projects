@@ -1,4 +1,4 @@
-# Projects – This Semester's Work
+# Projects – 2025/2026 Winter Semester's Work
 
 This repository contains the official semester report and project collection of:
 
