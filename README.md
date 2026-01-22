@@ -92,7 +92,8 @@ Extension of Neural ODEs to stochastic dynamics using Neural SDEs.
 - `ConceptualPresentationNSDE.pdf`  
   Conceptual overview of Neural SDEs.
 
-- `NSDEv1-NODEv2-Covid.ipynb`  
+- `NSDEv0-NODEv1.5-Covid.ipynb`
+- `NSDEv1-NODEv2-Covid.ipynb` 
 - `NSDEv2-NODEv3-Covid.ipynb`  
 - `NSDEv1-NODEv2-LH.ipynb`  
 - `NSDEv2-NODEv3-LH.ipynb`  
