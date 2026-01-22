@@ -27,11 +27,11 @@ The presentation addresses the following guiding questions:
 - Why Diffrax? (What is a differential equation and why model it?)  
 - What projects were done over the semester? (ODE and SDE models)  
 - A selected sample project:
-  - Why this sample was selected  
-  - The data used  
-  - The general model  
-  - The goal of the model  
-  - The implementation strategy (architecture, dynamics, etc.)  
+  - Why this particular sample was selected  
+  - Dataset from the sample  
+  - General selected model  
+  - Goal of the model  
+  - Implementation strategy (architecture, dynamics, etc.)  
   - Results  
   - Other life-science problems this type of model could solve  
 
